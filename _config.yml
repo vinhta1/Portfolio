@@ -43,11 +43,11 @@ google-analytics: UA-163806439-1
 # Name of the Author
 author-name: Vinh Ta
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: assets\images\240615Grad01Crop.png
 # 60 Words About the Author
 author-about: A student at UCSC pursuing game design, programming, and sound design.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/vinhta1
 
 # SASS
 sass:
