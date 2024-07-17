@@ -3,12 +3,13 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\assets\\images",
     "\\_data",
     "\\_includes",
     "\\_layouts",
     "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_includes\\dropdown.html",
+  "SelectedNode": "\\_includes\\project-card.html",
   "PreviewInSolutionExplorer": false
 }
