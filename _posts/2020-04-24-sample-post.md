@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlyZ3JhNWlhc2d2OXVqajJ6bnU2YWM5cDcwOGZiMGlnMWZybGc2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cb65FuNeCbmQuoO9K8/giphy.gif"
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
