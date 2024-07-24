@@ -43,7 +43,7 @@ google-analytics: UA-163806439-1
 # Name of the Author
 author-name: Vinh Ta
 # URL for the Image of the Author
-author-image: /assets/images/240615Grad01Crop.png
+author-image: https://i.ibb.co/dJq4sr7/240615-Grad01-Crop.png
 # 60 Words About the Author
 author-about: A student at UCSC pursuing game design, and programming. I make music for fun on the side.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
