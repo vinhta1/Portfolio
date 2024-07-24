@@ -1,6 +1,6 @@
 ---
 title:
-layout: post
+layout:
 post-image: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlyZ3JhNWlhc2d2OXVqajJ6bnU2YWM5cDcwOGZiMGlnMWZybGc2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cb65FuNeCbmQuoO9K8/giphy.gif"
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.

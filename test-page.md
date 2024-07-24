@@ -1,6 +1,6 @@
 ---
 title:
-layout: page
+layout:
 ---
 
 # This is heading 1
