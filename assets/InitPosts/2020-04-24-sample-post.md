@@ -1,6 +1,5 @@
-<!--
 ---
-title: Sample Post
+title:
 layout: post
 post-image: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlyZ3JhNWlhc2d2OXVqajJ6bnU2YWM5cDcwOGZiMGlnMWZybGc2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cb65FuNeCbmQuoO9K8/giphy.gif"
 description: A sample post to show how the content will look and how will different
@@ -10,7 +9,6 @@ tags:
 - post
 - test
 ---
--->
 
 This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
 For more information about writing markdown you can checkout the following markdown cheatsheets:

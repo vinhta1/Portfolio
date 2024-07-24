@@ -1,9 +1,7 @@
-<!--
 ---
-title: Test Page
+title:
 layout: page
 ---
--->
 
 # This is heading 1
 ## This is heading 2
