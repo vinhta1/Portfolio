@@ -3,10 +3,12 @@
         MORE
     </a>
     <div class="navbar-dropdown has-background-black is-left">
+        <!-- learning to add custom items to dropdown
         <a href="https://www.youtube.com/watch?v=awjjjytDL2Y"
             class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url | relative_url  %}is-active{% endif %}">
             Test
         </a>
+        -->
         {% for sitepage in site.html_pages %}
         {% unless sitepage.url == '/' or sitepage.url == '/404' or sitepage.url == '/blog'
         or sitepage.url == '/resume' %} <!-- Any page not here will be in the dropdown-->
